@@ -2,7 +2,7 @@
   "name": "react-tic-tac-toe-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stechiadarsh.github.io/react-tic-tac-toe-game",
+  "homepage": "https://techiadarsh.github.io/react-tic-tac-toe-game",
   "dependencies": {
     "node-modules": "^1.0.1",
     "react": "^16.0.0",
@@ -23,7 +23,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/techiadarshreact-tic-tac-toe-game.git"
+    "url": "git+https://github.com/techiadarsh/react-tic-tac-toe-game.git"
   },
   "author": "",
   "license": "ISC",
