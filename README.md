@@ -2,4 +2,4 @@
 Simple Tic Tac Toe Game built using React JS.
 
 ## Live Demo
-[https://sivadass.github.io/react-tic-tac-toe-game/](https://sivadass.github.io/react-tic-tac-toe-game/)
+[https://techiadarsh.github.io/React](https://techiadarsh.github.io/React)
