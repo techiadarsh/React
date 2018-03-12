@@ -2,8 +2,9 @@
   "name": "react-tic-tac-toe-game",
   "version": "0.1.0",
   "private": true,
-    "homepage": "http://techiadarsh.github.io/React"
+  "homepage": "https://stechiadarsh.github.io/react-tic-tac-toe-game",
   "dependencies": {
+    "node-modules": "^1.0.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-scripts": "1.0.14"
@@ -13,9 +14,20 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "deploy" : "npm run build&&gh-pages -d build"
+    "deploy": "npm run build&&gh-pages -d build"
   },
   "devDependencies": {
     "gh-pages": "^1.0.0"
+  },
+  "description": "Simple Tic Tac Toe Game built using React JS.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techiadarshreact-tic-tac-toe-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techiadarsh/react-tic-tac-toe-game/issues"
   }
 }
